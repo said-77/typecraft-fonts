@@ -1,0 +1,6 @@
+# Ignore helper scripts and local temp files
+publish_to_github.py
+deploy_helper.py
+__pycache__/
+*.log
+.DS_Store
